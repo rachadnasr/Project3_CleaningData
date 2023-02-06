@@ -28,5 +28,12 @@
 --- Evaluate gender / marital status / work experience
 --- Evaluate gender / marital status / spendings 
 
+## Obstacles encountered 
+
+## Lessons learned 
 
 ## Deliverables
+- CSV file with clean data containing the results of our data wrangling work.
+- Python file containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of our data set.
+- MySQL queries file containing the code to obtain table of our analysis.
+- A README.md file containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of our data as well as our results, obstacles encountered, and lessons learned. 
