@@ -2,7 +2,11 @@
 
 ## Team 
 
+Rachad and Clémence
+
 ## Project Description
+
+The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas in a real dataset, and show some highlights after the cleaning. 
 
 ## Steps Followed 
 
