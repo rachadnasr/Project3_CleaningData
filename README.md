@@ -26,11 +26,11 @@ The goal of this project is to combine data wrangling, cleaning, and manipulatio
 - Mysql analysis part:
 -- Queries to load and work on the data 
 -- Relationship between:
---- study the profile of most and least spenders: age, gender, profession and work experience
+--- study the profile of most and least spenders: age, gender and profession
 --- Evaluate the profession based on gender 
---- Evaluate the spending by the marital status 
---- Evaluate gender / marital status / work experience
 --- Evaluate gender / marital status / spendings 
+--- Evaluate marital status / family size
+--- Evaluate categories and spending 
 
 ## Obstacles encountered 
 
