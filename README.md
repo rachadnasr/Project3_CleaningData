@@ -34,7 +34,14 @@ The goal of this project is to combine data wrangling, cleaning, and manipulatio
 
 ## Obstacles encountered 
 
+The main obstacle was to understand the inconsistencies between the data. We chose to highlight them in our analysis, without discarding them from the dataset, but this reduced the analyses we could ultimately do. 
+An other obstacle was the missing values, and how to replace it without corrupting the data set. 
+
 ## Lessons learned 
+
+We learned that the order in the data cleaning is important to take attention because you have to well understand all the possible issues in your dataset before change something. 
+We learned that it is more important to be able to highlight the incoherencies or mistakes than always replace it. 
+We learned how to connect python and mysql, and do some SQL queries from Python Notebook. 
 
 ## Deliverables
 - CSV file with clean data containing the results of our data wrangling work.
